@@ -74,4 +74,3 @@ ax.yaxis.set_ticklabels([])
 ax.set_zlabel("3rd eigenvector")
 ax.zaxis.set_ticklabels([])
 
-plt.show()
